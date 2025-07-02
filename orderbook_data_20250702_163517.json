@@ -8,7 +8,7 @@
   "data": {
     "BTCUSDT_Binance_SWAP": {
       "5m": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1751324700000,
@@ -4999,11 +4999,21 @@
             "ask_price": 4018.247,
             "prev_timestamp": 1751473800000,
             "prev_timestamp_utc": "2025-07-02 16:30:00"
+          },
+          {
+            "timestamp": 1751474400000,
+            "timestamp_utc": "2025-07-02 16:40:00",
+            "bid_amount": 256449510.0,
+            "ask_amount": 2352.537,
+            "bid_price": 476891828.45,
+            "ask_price": 4334.824,
+            "prev_timestamp": 1751474100000,
+            "prev_timestamp_utc": "2025-07-02 16:35:00"
           }
         ]
       },
       "15m": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1751025600000,
@@ -9994,11 +10004,21 @@
             "ask_price": 3611.112,
             "prev_timestamp": 1751472900000,
             "prev_timestamp_utc": "2025-07-02 16:15:00"
+          },
+          {
+            "timestamp": 1751474700000,
+            "timestamp_utc": "2025-07-02 16:45:00",
+            "bid_amount": 250906809.25,
+            "ask_amount": 2302.24,
+            "bid_price": 465243013.4,
+            "ask_price": 4229.486,
+            "prev_timestamp": 1751473800000,
+            "prev_timestamp_utc": "2025-07-02 16:30:00"
           }
         ]
       },
       "1h": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1749679200000,
@@ -14989,6 +15009,16 @@
             "ask_price": 5304.749,
             "prev_timestamp": 1751468400000,
             "prev_timestamp_utc": "2025-07-02 15:00:00"
+          },
+          {
+            "timestamp": 1751475600000,
+            "timestamp_utc": "2025-07-02 17:00:00",
+            "bid_amount": 264939623.15,
+            "ask_amount": 2433.326,
+            "bid_price": 472449612.5,
+            "ask_price": 4297.384,
+            "prev_timestamp": 1751472000000,
+            "prev_timestamp_utc": "2025-07-02 16:00:00"
           }
         ]
       },
@@ -23265,7 +23295,7 @@
     },
     "BTCUSDT_Bybit_SWAP": {
       "5m": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1751324700000,
@@ -28256,11 +28286,21 @@
             "ask_price": 0,
             "prev_timestamp": 1751473800000,
             "prev_timestamp_utc": "2025-07-02 16:30:00"
+          },
+          {
+            "timestamp": 1751474400000,
+            "timestamp_utc": "2025-07-02 16:40:00",
+            "bid_amount": 0,
+            "ask_amount": 0,
+            "bid_price": 0,
+            "ask_price": 0,
+            "prev_timestamp": 1751474100000,
+            "prev_timestamp_utc": "2025-07-02 16:35:00"
           }
         ]
       },
       "15m": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1751025600000,
@@ -33251,11 +33291,21 @@
             "ask_price": 0,
             "prev_timestamp": 1751472900000,
             "prev_timestamp_utc": "2025-07-02 16:15:00"
+          },
+          {
+            "timestamp": 1751474700000,
+            "timestamp_utc": "2025-07-02 16:45:00",
+            "bid_amount": 0,
+            "ask_amount": 0,
+            "bid_price": 0,
+            "ask_price": 0,
+            "prev_timestamp": 1751473800000,
+            "prev_timestamp_utc": "2025-07-02 16:30:00"
           }
         ]
       },
       "1h": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1749679200000,
@@ -38246,6 +38296,16 @@
             "ask_price": 0,
             "prev_timestamp": 1751468400000,
             "prev_timestamp_utc": "2025-07-02 15:00:00"
+          },
+          {
+            "timestamp": 1751475600000,
+            "timestamp_utc": "2025-07-02 17:00:00",
+            "bid_amount": 0,
+            "ask_amount": 0,
+            "bid_price": 0,
+            "ask_price": 0,
+            "prev_timestamp": 1751472000000,
+            "prev_timestamp_utc": "2025-07-02 16:00:00"
           }
         ]
       },
@@ -46710,7 +46770,7 @@
     },
     "BTCUSD_Bybit_SWAP": {
       "5m": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1751324700000,
@@ -51701,11 +51761,21 @@
             "ask_price": 0,
             "prev_timestamp": 1751473800000,
             "prev_timestamp_utc": "2025-07-02 16:30:00"
+          },
+          {
+            "timestamp": 1751474400000,
+            "timestamp_utc": "2025-07-02 16:40:00",
+            "bid_amount": 0,
+            "ask_amount": 0,
+            "bid_price": 0,
+            "ask_price": 0,
+            "prev_timestamp": 1751474100000,
+            "prev_timestamp_utc": "2025-07-02 16:35:00"
           }
         ]
       },
       "15m": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1751025600000,
@@ -56696,11 +56766,21 @@
             "ask_price": 0,
             "prev_timestamp": 1751472900000,
             "prev_timestamp_utc": "2025-07-02 16:15:00"
+          },
+          {
+            "timestamp": 1751474700000,
+            "timestamp_utc": "2025-07-02 16:45:00",
+            "bid_amount": 0,
+            "ask_amount": 0,
+            "bid_price": 0,
+            "ask_price": 0,
+            "prev_timestamp": 1751473800000,
+            "prev_timestamp_utc": "2025-07-02 16:30:00"
           }
         ]
       },
       "1h": {
-        "count": 499,
+        "count": 500,
         "records": [
           {
             "timestamp": 1749679200000,
@@ -61691,6 +61771,16 @@
             "ask_price": 0,
             "prev_timestamp": 1751468400000,
             "prev_timestamp_utc": "2025-07-02 15:00:00"
+          },
+          {
+            "timestamp": 1751475600000,
+            "timestamp_utc": "2025-07-02 17:00:00",
+            "bid_amount": 0,
+            "ask_amount": 0,
+            "bid_price": 0,
+            "ask_price": 0,
+            "prev_timestamp": 1751472000000,
+            "prev_timestamp_utc": "2025-07-02 16:00:00"
           }
         ]
       },
